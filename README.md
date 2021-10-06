@@ -1,4 +1,4 @@
-olá
+oi
 
-bom dia
-kk
+bom dia, tudo bem?
+
